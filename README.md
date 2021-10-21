@@ -1,5 +1,6 @@
 UnixGlushchenko
 
+![](https://user-images.githubusercontent.com/56935583/138321015-3734e951-9a35-4e75-a4eb-9915a88c7bcb.png)
 
 Код:
 ```cd ./UnixGlushchenko/
