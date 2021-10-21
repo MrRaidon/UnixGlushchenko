@@ -2,7 +2,7 @@ UnixGlushchenko
 
 
 Код:
-cd ./UnixGlushchenko/
+```cd ./UnixGlushchenko/
   281  ls -la
   282  nano primer.py
   283  cd ./git
@@ -115,7 +115,7 @@ cd ./UnixGlushchenko/
   538  echo "venv" > .gitignore
   539  ls
   540  nano .gitignore
-  541  git add .gitignore
+  541  git add .gitignore```
   542  git commit -m gitign_upd
   543  git push
   560  git checout -b line1
