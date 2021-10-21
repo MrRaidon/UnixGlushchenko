@@ -1,0 +1,395 @@
+    1  sudo
+    2  sudo echo 232
+    3  python
+    4  python3
+    5  sudo lspci| grep Network
+    6  lspci -nn -d 14e4
+    7  lspci -nn -d 14e4:
+    8  sudo apt-get install frimware-b43-installer
+    9  sudo apt-get install firmware-b43-installer
+   10  sudo apt-get install frimware-b43-installer
+   11  sudo apt-get install firmware-b43-installer
+   12  passwd
+   13  sudo apt-get install firmware-b43-installer
+   14  reboot
+   15  apt-cache search broadcom-sta-dkms
+   16  sudo modprobe -r b44 b43 b43legacy ssb brcmsmac
+   17  sudo modeprobe wl
+   18  sudo modprobe wl
+   19  sudo apt-get install linux-headers-$(uname -r|sed 's,[^-]*-[^-]*-,,') broadcom-sta-dkms
+   20  sudo modprobe -r b44 b43 b43legacy ssb brcmsmac
+   21  sudo modprobe wl
+   22  lspci -knn | grep Net -A2
+   23  sudo apt-get purge bcmwl-kernel-source
+   24  sudo apt-get install firmware-b43-installer
+   25  sudo apt-get install bcmwl-kernel-source
+   26  sudo modprobe -r b43
+   27  sudo modprobe b43
+   28  sudo rfkill unblock all
+   29  reboot
+   30  killall firefox
+   31  sudo apt update
+   32  sudo apt upgrade
+   33  sudo apt install ubuntu-restricted-extras libavcodec-extra libdvd-pkg
+   34  sudo apt install adobe-flashplugin
+   35  sudo apt install gnome-tweak-tool
+   36  gnome-tweaks
+   37  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   38  sudo apt install chrome-gnome-shell
+   39  sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
+   40  usermod -l glushchenko -m -d /new/home/dir nikita
+   41  sudo usermod -l glushchenko -m -d /new/home/dir nikita
+   42  groupmod -n glushchenko nikita
+   43  sudo groupmod -n glushchenko nikita
+   44  sudo usermod -l glushchenko -m -d /new/home/dir nikita
+   45  wget https://release.gitkraken.com/linux/gitkraken-amd64.deb
+   46  sudo dpkg -i gitkraken-amd64.deb
+   47  sudo snap install pycharm-community --classic
+   48  sudo apt-get install python3-setuptools
+   49  sudo apt-get install python3-pip
+   50  sudo apt-get install python3-setuptools
+   51  sudo apt-get install python3-pip
+   52  sudo apt-get install python3-distutils
+   53  sudo apt-get install python3-tk
+   54  pycharm-community
+   55  sudo apt-get install python3-venv
+   56  mkdir myenvir
+   57  python3 -m venv myenv2
+   58  python3 -m venv myenv1
+   59  pip3 install ipython
+   60  pip3 install jupyter notebook
+   61  sudo apt-get install steam
+   62  git --version
+   63  sudo apt install git
+   64  git --version
+   65  wget https://software-download.microsoft.com/db/Win10_21H1_Russion_x64.iso
+   66  cd ./Загрузки
+   67  cd ./Slay the Spire (2..2-29.11.20)
+   68  cd ./Slay_the_Spire_(2..2-29.11.20)
+   69  cd ./2
+   70  cd ./
+   71  cd ./1
+   72  cd ./2.20_repack
+   73  cd 2.20_repack
+   74  sudo apt install gcc make perl
+   75  cd ./Загрузки
+   76  cd ./2
+   77  cd ./Sid.Meiers.Civilization.VI
+   78  CIV6
+   79  Civ6
+   80  ./Civ6
+   81  sudo apt search libopenal
+   82  sudo apt install libopenal
+   83  sudo apt install libopenal1
+   84  ./Civ6
+   85  sudo apt search libssl.so.1.0.0
+   86  sudo apt search libssl
+   87  sudo apt search libssl1.1
+   88  sudo apt install libssl1.0.0
+   89  sudo apt install libssl1.0
+   90  sudo apt install libssl1
+   91  sudo apt install libssl1.1
+   92  ./Civ6
+   93  sudo apt search libssl
+   94  sudo apt install libssl-dev
+   95  ./libc++.so
+   96  ./libc++.so.1
+   97  ./libsteam_api.so
+   98  sudo apt install libssl-dev
+   99  cd ./Загрузки
+  100  cd ./2
+  101  cd ./x-special/nautilus-clipboard
+  102  copy
+  103  file:///home/nikita/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2/Sid.Meiers.Civilization.VI
+  104  cd ./Sid.Meiers.Civilization.VI
+  105  ./Civ6
+  106  sudo apt install libssl.1.0
+  107  sudo apt install libssl.1.0.0
+  108  sudo apt install libssl.1
+  109  sudo apt install libssl.1.1
+  110  sudo apt install libssl1.1
+  111  sudo apt install libssl-dev
+  112  ./
+  113  ..
+  114  cd ./
+  115  cd ..
+  116  cd ./tmp
+  117  cd ..
+  118  cd ./tmp
+  119  cd ..
+  120  cd ./tmp
+  121  ./x-special/nautilus-clipboard
+  122  copy
+  123  file:///tmp/libssl1.0.0_1.0.2n-1ubuntu5.7_amd64.deb
+  124  ./libssl1.0.0_1.0.2n-1ubuntu5.7_amd64.deb
+  125  cd ./Загрузки
+  126  cd ./2/Sid.Meiers.Civilization.VI
+  127  cd ./Civ6
+  128  ./Civ6
+  129  sudo dpkg -i x-special/nautilus-clipboard
+  130  sudo dpkg -i libssl1.0.0_1.0.2n-1ubuntu5.7_amd64.deb
+  131  sudo dpkg -i libssl1.0.0_1.0.2n-1ubuntu5.7_amd64
+  132  cd ./tmp
+  133  cd /tmp
+  134  sudo dpkg -i libssl1.0.0_1.0.2n-1ubuntu5.7_amd64
+  135  sudo dpkg -i libssl1.0.0_1.0.2n-1ubuntu5.7_amd64.deb
+  136  sudo apt install libssl1.0.0_1.0.2n-1ubuntu5.7_amd64.deb
+  137  sudo apt-get -f install
+  138  sudo apt install libssl1.0.0_1.0.2n-1ubuntu5.7_amd64
+  139  sudo apt-get -f install
+  140  sudo apt install ./libssl1.0.0_1.0.2n-1ubuntu5.7_amd64.deb
+  141  cd ./glushchenko/Загрузки
+  142  cd ./home/Загрузки
+  143  cd ./Загрузки/2
+  144  ls
+  145  cd ./Загрузки/2/Sid.Meiers.Civilization.VI
+  146  cd ./Sid.Meiers.Civilization.VI
+  147  ./Civ6
+  148  cd ..
+  149  cd ./Загрузки
+  150  cd ./glushchenko
+  151  cd ..
+  152  cd ./Загрузки/2/Cities.Ckylines
+  153  cd ./Загрузки/3/Cities.Ckylines
+  154  cd ./Загрузки/3/Cities.Skylines
+  155  ./Cities
+  156  sudo apt install r-base
+  157  R
+  158  x-special/nautilus-clipboard
+  159  copy
+  160  file:///home/nikita/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/rstudio-1.4.1717-amd64.deb.part
+  161  cd ./Загрузки
+  162  /rstudio-1.4.1717-amd64.deb.part
+  163  sudo dpkg /rstudio-1.4.1717-amd64.deb.part
+  164  sudo dpkg -i rstudio-1.4.1717-amd64.deb.part
+  165  sudo dpkg -i rstudio-1.4.1717-amd64.deb
+  166  sudo apt install ./rstudio-1.4.1717-amd64.deb
+  167  sudo snap install android-studio --classic
+  168  sudo add-apt-repository ppa:graphics-drivers/ppa
+  169  sudo apt update
+  170  apt list --upgradable
+  171  phpmyadmin
+  172  apt-get install lamp-server^ phpmyadmin
+  173  sudo apt-get install lamp-server^ phpmyadmin
+  174  apache2
+  175  source /etc/apache2/envvars
+  176  hostname -I
+  177  sudo -H gedit /etc/apache2/apache2.conf
+  178  /etc/init.d/apache2 restart
+  179  cd git/FA/2\ Курс/Глущенко/
+  180  ld
+  181  ls
+  182  cd web
+  183  cd Web/
+  184  ld
+  185  ls
+  186  cp ../../Зайцев/Web/lightweb/server.py server.py
+  187  cp ../../Зайцев/Web/lightweb/requirements.txt requirements.txt
+  188  ls
+  189  python3
+  190  python3 -m venv venv
+  191  ld
+  192  ls
+  193  source venv/bin/activate
+  194  ld
+  195  ls
+  196  pip install -r requirements.txt u
+  197  pip install -r requirements.txt 
+  198  /var/run/apache2
+  199  ping 10.4.55.25
+  200  sudo ufw app list
+  201  udo ufw allow 'Apache'
+  202  sudo ufw allow 'Apache'
+  203  sudo ufw status
+  204  sudo systemctl status apache2
+  205  sudo ufw allow 'Apache'
+  206  sudo ufw app list
+  207  apache
+  208  apache2
+  209  sudo systemctl stop apache2
+  210  sudo systemctl start apache2
+  211  sudo -H gedit /etc/apache2/apache2.conf
+  212  sudo systemctl start apache2
+  213  sudo -H gedit /etc/apache2/apache2.conf
+  214  sudo systemctl stop apache2
+  215  sudo systemctl start apache2
+  216  sudo -H gedit /etc/apache2/ports.conf
+  217  sudo systemctl stop apache2
+  218  sudo systemctl start apache2
+  219  sudo -H gedit /etc/apache2/ports.conf
+  220  sudo systemctl stop apache2
+  221  sudo systemctl start apache2
+  222  LS
+  223  ls\
+  224  ls
+  225  cd git/FA/2\ Курс/Глущенко/Web/
+  226  ls
+  227  source venv/bin/activate
+  228  ls
+  229  python3 server.py 
+  230  cd ./git
+  231  ls
+  232  cd ./FA
+  233  ls
+  234  ./2 Курс
+  235  cd ./2 Курс
+  236  cd ./2Курс
+  237  ls
+  238  cd ./
+  239  x-special/nautilus-clipboard
+  240  copy
+  241  file:///home/nikita/git/FA/2%20%D0%9A%D1%83%D1%80%D1%81
+  242  cd ///home/nikita/git/FA/2%20%D0%9A%D1%83%D1%80%D1%81
+  243  cd ///home/nikita/git/FA/
+  244  cd ///home/nikita/git/FA/2 Курс
+  245  cd ///home/nikita/git/FA/2_Курс
+  246  cd ./
+  247  cd ..
+  248  mkdir UNIX
+  249  cd ./Unix
+  250  cd ./UNIX
+  251  ls -la
+  252  git init
+  253  cd ..
+  254  cd ./UNIX
+  255  nano 1.py
+  256  git status
+  257  git add 1.py
+  258  git status
+  259  git commit -m "first init"
+  260  git log
+  261  nano 1.py
+  262  git status
+  263  git add .
+  264  git status
+  265  git commit -m "second coomit"
+  266  git log
+  267  cd ..
+  268  cd ./git
+  269  ls
+  270  ls/FA
+  271  cd ./FA/
+  272  ls
+  273  cd ./2\ Курс/
+  274  ls
+  275  cd ./Глущенко/
+  276  mkdir UNIX
+  277  cd ./UNIX
+  278  cd ..
+  279  ls
+  280  cd ./UnixGlushchenko/
+  281  ls -la
+  282  nano primer.py
+  283  cd ./git
+  284  ls
+  285  sd ./UnixGlushchenko/
+  286  cd ./git
+  287  ls
+  288  cd ./UnixGlushchenko/
+  289  ls -la
+  290  nano pr1.py
+  291  git add pr1.py
+  292  git commit -m "my first commit"
+  293  git status
+  294  git log
+  295  git add .
+  296  git log
+  297  nano pr1.py
+  298  git add .
+  299  git commit -m "commit version 2"
+  300  git status
+  301  git push
+  302  ssh-keygen -t rsa -b 4096 -C "glushchenko_nikita@bk.ru"
+  303  cat ~/.ssh/id_rsa.pu
+  304  cat /home/nikita/.ssh/id_rsa.pub
+  305  git push
+  306  git status
+  307  git push
+  308  git config --add --local core.sshCommand "/home/home/nikita/.ssh/id_rsa.pub"
+  309  git push
+  310* cat 
+  311  cat ~/.ssh/id_rsa.pu
+  312  cat ~/.ssh/id_rsa.pup
+  313  cat ~/.ssh/id_rsa.pub
+  314  git push
+  315  ssh-keygen -t rsa -b 4096 -C "glushchenko_nikita@bk.ru"
+  316  cat ~/.ssh/id_rsa.pub
+  317  git status
+  318  pull
+  319  git pull
+  320  git push
+  321  gh auth login --with-token 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
+  322  sudo snap install gh 
+  323  gh auth login --with-token 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
+  324  git push
+  325  cd ..
+  326  cd UnixGlushchenko/
+  327  git push
+  328  git status
+  329  git log
+  330  sudo pr1.py
+  331  nano pr1.py
+  332  git add .
+  333  git push
+  334  git log
+  335  git commit -m "version 3"
+  336  git push
+  337  git log
+  338  git checkout
+  339  git checkout -b newotkl my first commit000d219041887d5321b71c83ae1b1ba8dc496e62
+  340  git checkout 000d219041887d5321b71c83ae1b1ba8dc496e62
+  341  nano pr1.py
+  342  git checkout master
+  343  git log
+  344  git checkout
+  345  git log
+  346  git checkout FILE_TO_REVERT
+  347  git checkout --files_to_revert
+  348  git reset --hard
+  349  git log
+  350  git checkout -
+  351  git log
+  352  history >history.txt
+  nano pr2.py
+  357  git add pr2.py
+  358  git commit -ma "new commit for pr2"
+  359  git commit -am "new commit for pr2"
+  360  git log
+  361  nano pr2.py
+  362  nano pr1.py
+  363  git commit -am "new commit for pr2"
+  364  git log
+  365  git commit -am "new commit for pr2 and pr1"
+  366  git push
+  367  man python3
+  368  python3 -m
+  369  python3 -m venv venv
+  370  ls
+  371  cat .gitignore
+  372  touch .gitignore
+  373  cat .gitignore
+  374  source venv/bin/activate
+  375  cd ..
+  376  cd ./UnixGlushcheno
+  377  cd ./UnixGlushchenko
+  378  pip freeze -r result.txt
+  379  touch result.txt
+  380  pip freeze -r result.txt
+  381  cat result.txt
+  382  pip freeze > result.txt
+  383  cat result.txt
+  384  pip freeze-r result.txt
+  385  pip freeze -r result.txt
+  386  pip freeze > result.txt
+  387  cat result.txt
+  388  nano result.txt
+  389  ls
+  390  pip install aiohttp
+  391  pip freeze -r result.txt
+  392  pip freeze > result.txt
+  393  cat result.txt
+  394  echo "venv" > .gitignore
+  395  cat .gitignore
+  396  ls
+  397  nano .gitignore
+  398  python3
